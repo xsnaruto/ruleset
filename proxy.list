@@ -1,4 +1,4 @@
 # 该 list 自定义所有有代理需要的服务
 
 # Plex 服务
-DOMAIN-SUFFIX,plex.tv,代理 Proxy // 仅加速 Plex 网站及元素加载，不影响流媒体播放
+DOMAIN-SUFFIX,plex.tv // Plex 网站及元素加载，不影响流媒体加载
