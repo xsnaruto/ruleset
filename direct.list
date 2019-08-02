@@ -1,4 +1,4 @@
 # 该 list 自定义所有有直连需要的服务
 
 # Plex 服务
-DOMAIN-SUFFIX,plex.direct,直连 Direct // Plex 流媒体播放直连
+DOMAIN-SUFFIX,plex.direct // 仅作用于 Plex 流媒体加载
