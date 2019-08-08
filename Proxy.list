@@ -2,3 +2,6 @@
 
 # Plex 服务
 DOMAIN-SUFFIX,plex.tv // Plex 网站及元素加载，不影响流媒体加载
+
+# Notion 服务
+DOMAIN-SUFFIX,notion.so // Notion 服务的元素加载加速
