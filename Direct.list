@@ -1,7 +1,8 @@
 # 该 list 自定义所有有直连需要的服务
 
-DOMAIN-SUFFIX,synology.me // 个人群辉后台
+# DOMAIN-SUFFIX,synology.me // 个人群辉后台
 DOMAIN-SUFFIX,xsof.me // 个人博客
+DOMAIN-KEYWORD,xsofme // 个人阿里云 OSS 存储文件调用
 
 # Plex 服务
 DOMAIN-SUFFIX,plex.direct // 仅作用于 Plex 流媒体加载
