@@ -1,7 +1,9 @@
 # 该 list 自定义所有有直连需要的服务
 
+
+# 个人业务
 # DOMAIN-SUFFIX,synology.me // 个人群辉后台
-DOMAIN-SUFFIX,*.xsof.me // 个人相关业务
+DOMAIN-SUFFIX,xsof.me // 个人博客等服务
 DOMAIN-KEYWORD,xsofme // 个人阿里云 OSS 存储文件调用
 
 # Plex 服务
