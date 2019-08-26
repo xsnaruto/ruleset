@@ -1,7 +1,7 @@
 # 该 list 自定义所有有代理需要的服务
 
 # 个人业务定制
-DOMAIN-SUFFIX,en.xsof.me // 个人博客英文页面通过海外加速
+DOMAIN-DOMAIN,en.xsof.me // 个人博客英文页面通过海外加速
 
 # Plex 服务
 DOMAIN-SUFFIX,plex.tv // Plex 网站及元素加载，不影响流媒体加载
