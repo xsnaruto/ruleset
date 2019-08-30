@@ -3,10 +3,10 @@
 
 # 个人业务
 # DOMAIN-SUFFIX,synology.me // 个人群辉后台
-# DOMAIN-DOMAIN,xsof.me // 个人博客
-DOMAIN-DOMAIN,adguard.xsof.me // Adguard
-DOMAIN-DOMAIN,netgear.xsof.me // 网件
-DOMAIN-DOMAIN,synology.xsof.me // 群晖管理
+# DOMAIN,xsof.me // 个人博客
+DOMAIN,adguard.xsof.me // Adguard
+DOMAIN,netgear.xsof.me // 网件
+DOMAIN,synology.xsof.me // 群晖管理
 # DOMAIN-KEYWORD,xsofme // 个人阿里云 OSS 存储文件调用
 
 # Plex 服务
