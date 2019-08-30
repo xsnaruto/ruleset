@@ -7,4 +7,8 @@ DOMAIN-DOMAIN,en.xsof.me // 个人博客英文页面通过海外加速
 DOMAIN-SUFFIX,plex.tv // Plex 网站及元素加载，不影响流媒体加载
 
 # Notion 服务
-DOMAIN-SUFFIX,notion.so // Notion 服务的元素加载加速
+DOMAIN-SUFFIX,notion.so 
+
+# > Pixiv 相关规则
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net.net
