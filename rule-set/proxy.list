@@ -11,3 +11,18 @@ DOMAIN-SUFFIX,notion.so
 # > Pixiv 日本插画网站
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net.net
+
+# > Trakt.tv 影视追踪订阅服务
+DOMAIN-SUFFIX,trakt.tv
+
+# > Google Analytics 报告查看（避免被隐私阻挡功能阻止报告查看）
+DOMAIN,analyticsreporting.googleapis.com
+
+# > 亚马逊站点
+DOMAIN-SUFFIX,amazon.com     // 亚马逊美国以及亚马逊 AWS
+DOMAIN-SUFFIX,amazon.co.jp     // 亚马逊日本
+DOMAIN-SUFFIX,amazon.es     // 亚马逊西班牙
+DOMAIN-SUFFIX,amazon.fr     // 亚马逊法国
+DOMAIN-SUFFIX,amazon.it     // 亚马逊意大利
+DOMAIN-SUFFIX,amazon.de     // 亚马逊德国
+DOMAIN-SUFFIX,amazon.co.uk     // 亚马逊英国
