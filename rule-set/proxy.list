@@ -8,10 +8,6 @@ DOMAIN-SUFFIX,plex.tv // Plex 网站及元素加载，不影响流媒体加载
 # Notion 笔记服务
 DOMAIN-SUFFIX,notion.so 
 
-# > Pixiv 日本插画网站
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pximg.net.net
-
 # > Trakt.tv 影视追踪订阅服务
 DOMAIN-SUFFIX,trakt.tv
 
