@@ -1,0 +1,7 @@
+# 该 list 自定义所有主要面向国内的服务
+
+# > 比特球网盘
+DOMAIN-SUFFIX,bitqiu.com
+
+# > 荔枝 FM
+DOMAIN-SUFFIX,lizhi.fm
