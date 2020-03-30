@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,trakt.tv
 
 # > Duolingo 多邻国
-DOMAIN-SUFFIX,duolingo.com
+# DOMAIN-SUFFIX,duolingo.com
 
 # > Google Analytics 报告查看（避免被隐私阻挡功能阻止报告查看）
 DOMAIN,analyticsreporting.googleapis.com
