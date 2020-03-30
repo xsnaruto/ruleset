@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,bitqiu.com
 
 # > 荔枝 FM
 DOMAIN-SUFFIX,lizhi.fm
+
+# > 哔哩哔哩 Bilibili.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilivideo.com
