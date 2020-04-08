@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,lizhi.fm
 
 # > 苹果中国官网走国内线路
 DOMAIN-SUFFIX,apple.com.cn
+
+# > 杂碎业务
+DOMAIN-SUFFIX,91dbq.com
