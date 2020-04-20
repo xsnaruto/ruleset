@@ -9,12 +9,6 @@ DOMAIN-SUFFIX,lizhi.fm
 # > 苹果中国官网走国内线路
 DOMAIN-SUFFIX,apple.com.cn
 
-# > Duolingo 多邻国
-DOMAIN-SUFFIX,duolingo.com
-
-# > Busuu 博树
-DOMAIN-SUFFIX,busuu.com
-
 # > 杂碎业务
 # DOMAIN-SUFFIX,91dbq.com
 
