@@ -9,12 +9,6 @@ DOMAIN-SUFFIX,notion.so
 # > Trakt.tv 影视追踪订阅服务
 DOMAIN-SUFFIX,trakt.tv
 
-# > Duolingo 多邻国
-DOMAIN-SUFFIX,duolingo.com
-
-# > Busuu 博树
-DOMAIN-SUFFIX,busuu.com
-
 # > Google Analytics 报告查看（避免被隐私阻挡功能阻止报告查看）
 DOMAIN,analyticsreporting.googleapis.com
 
