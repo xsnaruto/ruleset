@@ -10,5 +10,5 @@ DOMAIN-SUFFIX,lizhi.fm
 DOMAIN-SUFFIX,apple.com.cn
 
 # > 杂碎业务
-# DOMAIN-SUFFIX,91dbq.com
-
+DOMAIN-SUFFIX,91dbq.com
+DOMAIN-SUFFIX,qfpay.com
