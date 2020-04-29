@@ -1,0 +1,10 @@
+#!name = 🧙‍♂️ Wikipedia Optimize
+#!desc = Wikipedia 页面美化（Wikiwand 转跳）
+
+[URL Rewrite]
+^https?:\/\/.+.(m\.)?wikipedia\.org/wiki https://www.wikiwand.com/en 302
+^https?:\/\/zh.(m\.)?wikipedia\.org/(zh-hans|zh-sg|zh-cn|zh(?=/)) https://www.wikiwand.com/zh-hans 302
+^https?:\/\/zh.(m\.)?wikipedia\.org/zh-[a-zA-Z]{2,} https://www.wikiwand.com/zh-hant 302
+
+[MITM]
+hostname = %INSERT% *wikipedia.org
