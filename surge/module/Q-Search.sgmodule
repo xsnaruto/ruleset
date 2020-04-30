@@ -44,7 +44,7 @@
 # tmdb：影视资料库
 ^https:\/\/duckduckgo.com\/\?q=tmdb\+([^&]+).+ https://www.themoviedb.org/search?query=$1 302
 # db：豆瓣
-^https:\/\/duckduckgo.com\/\?q=db\+([^&]+).+ https://www.douban.com/search?query=$1 302
+^https:\/\/duckduckgo.com\/\?q=db\+([^&]+).+ https://www.douban.com/search?q=$1 302
 # zh: 知乎
 ^https:\/\/duckduckgo.com\/\?q=zh\+([^&]+).+ https://www.zhihu.com/search?type=content&q=$1 302
 # wb: 微博
