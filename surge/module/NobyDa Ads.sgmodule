@@ -1,0 +1,11 @@
+#!name = 🚫 NobyDa 标准拦截
+#!desc = 标准广告拦截（复写广告存于订阅）
+#出处：NobyDa https://github.com/NobyDa
+#复写广告拦截模块地址：https://github.com/NobyDa/Script/raw/master/Surge/Module/RewriteRules.sgmodule
+
+[Rule]
+RULE-SET,https://github.com/NobyDa/Script/raw/master/Surge/AdRule.list,REJECT
+
+# DOMAIN,graph.facebook.com,🍃 代理 Proxy
+# DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
+# RULE-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block_Add.txt,REJECT
