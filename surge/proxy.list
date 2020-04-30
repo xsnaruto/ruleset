@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,amazon.fr     // 亚马逊法国
 DOMAIN-SUFFIX,amazon.it     // 亚马逊意大利
 DOMAIN-SUFFIX,amazon.de     // 亚马逊德国
 DOMAIN-SUFFIX,amazon.co.uk     // 亚马逊英国
+
+# > 其它
+DOMAIN-SUFFIX,artstation.com
