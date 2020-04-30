@@ -1,5 +1,5 @@
 #!name = 🔍 集合搜索引擎
-#!desc = Browser Search Add-ons, Modified from module by Neurogram
+#!desc = 搜索引擎合集
 
 # Q-Search 
 # Modified by nzw9314 
@@ -23,7 +23,7 @@
 # wiki  (维基百科)
 ^https:\/\/duckduckgo.com\/\?q=wiki\+([^&]+).+ http://wikipedia.org/wiki/$1 302
 # wkzh  (维基中文)
-^https:\/\/duckduckgo.com\/\?q=wkzh\+([^&]+).+ https://zh.wikipedia.org/zh-cn/$1 302
+^https:\/\/duckduckgo.com\/\?q=wkzh\+([^&]+).+ http://zh.wikipedia.org/zh-cn/$1 302
 
 # > 翻译
 # yd   (有道)
@@ -79,6 +79,8 @@
 ^https:\/\/duckduckgo.com\/\?q=amz\+([^&]+).+ https://www.amazon.de/gp/aw/s/?k=$1 302
 
 # 视频资源
+# bli (哔哩哔哩)
+^https:\/\/duckduckgo.com\/\?q=bli\+([^&]+).+ https://search.bilibili.com/all?keyword=$1 302
 # ytb  (YouTube)
 ^https:\/\/duckduckgo.com\/\?q=ytb\+([^&]+).+ https://www.youtube.com/results?search_query=$1 302
 # ph  (PornHub) 
