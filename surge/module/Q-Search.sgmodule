@@ -101,4 +101,4 @@
 // ^https:\/\/duckduckgo.com\/\?q=([^&]+).+ https://duckduckgo.com/?ia=about&q=$1 302
 
 [MITM]
-hostname = %APPEND% duckduckgo.com
+hostname = %INSERT% duckduckgo.com
