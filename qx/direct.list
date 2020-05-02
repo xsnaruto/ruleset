@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,busuu.com,direct
 
 # > 钉钉 DingTalk
 DOMAIN-SUFFIX,dingtalk.com,direct
+
+# > 杂类项目
+DOMAIN-SUFFIX,dove.589669.xyz,direct
