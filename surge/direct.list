@@ -4,11 +4,11 @@
 DOMAIN-SUFFIX,xsof.me
 
 # > Duolingo 多邻国
-DOMAIN-SUFFIX,duolingo.cn
-DOMAIN-SUFFIX,duolingo.com
+// DOMAIN-SUFFIX,duolingo.cn
+// DOMAIN-SUFFIX,duolingo.com
 
 # > Busuu 博树
-DOMAIN-SUFFIX,busuu.com
+// DOMAIN-SUFFIX,busuu.com
 
 # > 钉钉 DingTalk
 DOMAIN-SUFFIX,dingtalk.com
