@@ -1,8 +1,14 @@
 # 成人网站相关链接
 
 ## General
-DOMAIN-SUFFIX,91porn.com,adult
+
+### > Pronhub
+DOMAIN-SUFFIX,phncdn.com,adult
+DOMAIN-SUFFIX,phprcdn.com,adult
 DOMAIN-SUFFIX,pornhub.com,adult
+DOMAIN-SUFFIX,pornhubpremium.com,adult
+
+DOMAIN-SUFFIX,91porn.com,adult
 DOMAIN-SUFFIX,t66y.com,adult
 DOMAIN-SUFFIX,xvideos.com,adult
 DOMAIN-SUFFIX,kdw019.com,adult
