@@ -1,3 +1,5 @@
-# Rule-Set and Script for personal use
+# Rule-Set and Script
 
-Scripts are collected from internet, right info all keeped in each js file. 
+Only for personal use, scripts all from the internet.
+
+&)#&(*Y#(&)($@&)). Nothing special.

@@ -1,0 +1,17 @@
+# 该 list 自定义所有有直连需要的服务
+
+# > XsOf.Me
+DOMAIN-SUFFIX,xsof.me,direct
+
+# > Duolingo 多邻国
+DOMAIN-SUFFIX,duolingo.cn,direct
+DOMAIN-SUFFIX,duolingo.com,direct
+
+# > Busuu 博树
+DOMAIN-SUFFIX,busuu.com,direct
+
+# > 钉钉 DingTalk
+DOMAIN-SUFFIX,dingtalk.com,direct
+
+# > 杂类项目
+DOMAIN-SUFFIX,dove.589669.xyz,direct

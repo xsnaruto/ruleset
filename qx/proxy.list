@@ -1,0 +1,25 @@
+# 该 list 自定义所有有代理需要的服务
+
+# Plex 媒体服务器网站
+DOMAIN-SUFFIX,plex.tv,proxy // Plex 网站及元素加载，不影响流媒体加载
+
+# Notion 笔记服务
+DOMAIN-SUFFIX,notion.so,proxy
+
+# > Trakt.tv 影视追踪订阅服务
+DOMAIN-SUFFIX,trakt.tv,proxy
+
+# > Google Analytics 报告查看（避免被隐私阻挡功能阻止报告查看）
+DOMAIN,analyticsreporting.googleapis.com,proxy
+
+# > 亚马逊站点
+DOMAIN-SUFFIX,amazon.com,proxy     // 亚马逊美国以及亚马逊 AWS
+DOMAIN-SUFFIX,amazon.co.jp,proxy     // 亚马逊日本
+DOMAIN-SUFFIX,amazon.es,proxy     // 亚马逊西班牙
+DOMAIN-SUFFIX,amazon.fr,proxy     // 亚马逊法国
+DOMAIN-SUFFIX,amazon.it,proxy     // 亚马逊意大利
+DOMAIN-SUFFIX,amazon.de,proxy     // 亚马逊德国
+DOMAIN-SUFFIX,amazon.co.uk,proxy     // 亚马逊英国
+
+# > 其它
+DOMAIN-SUFFIX,artstation.com,proxy
