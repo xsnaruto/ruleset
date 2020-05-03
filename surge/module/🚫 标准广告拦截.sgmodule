@@ -1,0 +1,9 @@
+#!name = 🕹|🚫 标准型广告拦截
+#!desc = 标准版广告拦截（复写广告存于订阅）
+#内容出处：NobyDa & lhie1
+
+[Rule]
+RULE-SET,https://github.com/NobyDa/Script/raw/master/Surge/AdRule.list,REJECT // NobyDa 广告
+#复写广告拦截模块地址：https://github.com/NobyDa/Script/raw/master/Surge/Module/RewriteRules.sgmodule
+
+RULE-SET,https://github.com/lhie1/Rules/raw/master/Surge/Surge%203/Provider/Reject.list,REJECT // lhie1 广告（视频）

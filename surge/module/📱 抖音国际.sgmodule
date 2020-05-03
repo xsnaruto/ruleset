@@ -1,0 +1,13 @@
+#!name = 📱|🎸 TIK TOK 区锁
+#!desc = 解除 TikTok 区域限制
+#!system = ios
+
+[URL Rewrite]
+(.*video_id=\w{32})(.*watermark=)(.*) $1 302
+
+(?<=_region=)CN(?=&) UK 307
+(?<=&app_version=)15..(?=.?.?&) 1 307
+(?<=\?version_code=)15..(?=.?.?&) 1 307
+
+[MITM]
+hostname = %INSERT% *.tiktokv.com, *.byteoversea.com, *.musical.ly, *.snssdk.com, *.amemv.com
