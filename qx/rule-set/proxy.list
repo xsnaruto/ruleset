@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,notion.so,proxy
 # > Trakt.tv 影视追踪订阅服务
 DOMAIN-SUFFIX,trakt.tv,proxy
 
+# > 境外 GIF 公共媒体服务器
+DOMAIN-SUFFIX,giphy.com,proxy
+
 # > Google Analytics 报告查看（避免被隐私阻挡功能阻止报告查看）
 DOMAIN,analyticsreporting.googleapis.com,proxy
 
