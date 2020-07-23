@@ -1,5 +1,8 @@
-# Rule-Set and Script
+### Rule-Set and Script
 
-Only for personal use, scripts all from the internet.
+Just for personal use.
+
+Rules are customized; Most other rules, referenced from [lhie1](https://github.com/lhie1).  
+Scripts files all collected from internet and contain oraginal author information.
 
 &)#&(*Y#(&)($@&)). Nothing special.
