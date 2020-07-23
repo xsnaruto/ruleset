@@ -12,3 +12,7 @@ DOMAIN-SUFFIX,apple.com.cn,china
 # > 杂碎业务
 # DOMAIN-SUFFIX,91dbq.com,china
 
+# > 奶牛快传
+DOMAIN-SUFFIX,cowtransfer.com,china
+DOMAIN-SUFFIX,c-t.work // 奶牛快传分享链接,china
+
