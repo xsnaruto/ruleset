@@ -15,5 +15,8 @@ DOMAIN-SUFFIX,busuu.com,direct
 # > 钉钉 DingTalk
 DOMAIN-SUFFIX,dingtalk.com,direct
 
+# > 17Track 海外物流追踪
+DOMAIN-SUFFIX,17track.net,direct
+
 # > 杂类项目
 DOMAIN-SUFFIX,dove.589669.xyz,direct
