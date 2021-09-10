@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,subdh.com
 
   # > 资源搜索站
-  - DOMAIN-SUFFIX,bt4g.org
-  - DOMAIN-SUFFIX,idope.se
+  # - DOMAIN-SUFFIX,bt4g.org
+  # - DOMAIN-SUFFIX,idope.se
   
+  # > 贝贝 B 站下载站
+  - DOMAIN-SUFFIX,xbeibeix.com
