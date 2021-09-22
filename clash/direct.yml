@@ -1,4 +1,8 @@
 payload:
+
+  # > Plex Direct
+  - DOMAIN-SUFFIX,plex.direct
+  
   # > 影视相关资源站
   - DOMAIN-SUFFIX,zmk.pw
   - DOMAIN-SUFFIX,subhd.tv
