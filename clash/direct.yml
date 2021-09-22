@@ -17,4 +17,4 @@ payload:
   - DOMAIN-SUFFIX,xbeibeix.com
 
   # > 未知线路
-  - IP-CIDR,188.166.179.187
+  - IP-CIDR,188.166.179.187/32
