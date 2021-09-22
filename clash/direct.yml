@@ -11,3 +11,6 @@ payload:
   
   # > 贝贝 B 站下载站
   - DOMAIN-SUFFIX,xbeibeix.com
+
+  # > 未知线路
+  - IP-CIDR,188.166.179.187
