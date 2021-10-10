@@ -18,3 +18,4 @@ payload:
   - IP-CIDR,188.166.179.187/32
   - IP-CIDR,140.83.53.241/32
   - DOMAIN,mtproxy.2077.design
+  - DOMAIN-SUFFIX,imwc.me
