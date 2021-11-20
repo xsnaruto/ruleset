@@ -32,3 +32,4 @@ payload:
   - IP-CIDR,140.83.53.241/32
   - DOMAIN,mtproxy.2077.design
   - DOMAIN-SUFFIX,imwc.me
+  - DOMAIN,s5-dh-dns.global-idc.net
