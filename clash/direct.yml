@@ -1,20 +1,28 @@
 payload:
 
-  # > Plex Direct
+  # > Plex 官方 Relay 域名
   - DOMAIN-SUFFIX,plex.direct
+
+  # > ImWc.Me Plex
+  - DOMAIN,plex.imwc.me
+  - DOMAIN,plex-forward.imwc.me
+  - IP-CIDR,20.214.139.126/32
+  - IP-CIDR,20.239.173.143/32
   
   # > 影视相关资源站
   - DOMAIN-SUFFIX,zmk.pw
+  - DOMAIN-SUFFIX,zimuku.org
   - DOMAIN-SUFFIX,subhd.tv
   - DOMAIN-SUFFIX,subhd.la
   - DOMAIN-SUFFIX,subdh.com
   - DOMAIN-SUFFIX,pianku.li
   - DOMAIN-SUFFIX,mypianku.net
-  
+  - DOMAIN-SUFFIX,btnull.com
+
   # > 贝贝 B 站下载站
   - DOMAIN-SUFFIX,xbeibeix.com
 
-  # > Wechat 服务器
+  # > Wechat (海外) 服务器
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,servicewechat.com
   - IP-CIDR,101.32.104.4/32,no-resolve
@@ -27,9 +35,5 @@ payload:
   - IP-CIDR,129.226.3.47/32,no-resolve
   - IP-CIDR,129.226.107.244/32,no-resolve
 
-  # > 未知线路
-  - IP-CIDR,188.166.179.187/32
-  - IP-CIDR,140.83.53.241/32
-  - DOMAIN,mtproxy.2077.design
-  - DOMAIN-SUFFIX,imwc.me
-  - DOMAIN,s5-dh-dns.global-idc.net
+  # > 其他项目
+
