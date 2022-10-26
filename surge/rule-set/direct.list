@@ -1,5 +1,12 @@
 # 该 list 自定义所有有直连需要的服务
 
+# > 比特球网盘
+DOMAIN-SUFFIX,bitqiu.com
+
+# > 奶牛快传
+DOMAIN-SUFFIX,cowtransfer.com
+DOMAIN-SUFFIX,c-t.work // 奶牛快传分享链接
+
 # 字幕网站
 DOMAIN-SUFFIX,zmk.pw
 DOMAIN-SUFFIX,zimuku.org
@@ -7,3 +14,5 @@ DOMAIN-SUFFIX,subhd.tv
 
 # > 杂类项目
 DOMAIN-SUFFIX,dove.589669.xyz
+DOMAIN-SUFFIX,91dbq.com
+DOMAIN-SUFFIX,qfpay.com
