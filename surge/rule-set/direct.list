@@ -1,19 +1,9 @@
 # 该 list 自定义所有有直连需要的服务
 
-# > XsOf.Me
-# DOMAIN-SUFFIX,xsof.me
-# IP-CIDR,27.124.46.179/32
-# IP-CIDR,45.153.201.31/32
-
-# > Duolingo 多邻国
-// DOMAIN-SUFFIX,duolingo.cn
-// DOMAIN-SUFFIX,duolingo.com
-
-# > Busuu 博树
-// DOMAIN-SUFFIX,busuu.com
-
-# > 钉钉 DingTalk
-DOMAIN-SUFFIX,dingtalk.com
+# 字幕网站
+DOMAIN-SUFFIX,zmk.pw
+DOMAIN-SUFFIX,zimuku.org
+DOMAIN-SUFFIX,subhd.tv
 
 # > 杂类项目
 DOMAIN-SUFFIX,dove.589669.xyz
