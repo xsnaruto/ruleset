@@ -3,6 +3,9 @@
 # Plex 媒体服务器网站
 DOMAIN-SUFFIX,plex.tv // Plex 网站及元素加载，不影响流媒体加载
 
+# TheMovieDB
+DOMAIN-SUFFIX,themoviedb.org
+
 # Notion 笔记服务
 DOMAIN-SUFFIX,notion.so 
 
