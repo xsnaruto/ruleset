@@ -38,7 +38,7 @@ const DataBase = {
 	switch (Settings.Switch) {
 		case "true":
 		default:
-			const Language = (Settings?.Language == "auto") ? $environment?.language : Settings?.Language ?? "zh-Hans"
+			const Language = (Settings?.Language == "zh-Hans") ? $environment?.language : Settings?.Language ?? "zh-Hans"
 			// 构造请求信息
 			let Request = DataBase.WARP.Configs.Request;
 			// 兼容性修正
