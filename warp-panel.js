@@ -189,7 +189,7 @@ function formatAccount(account, language = $environment?.language ?? "zh-Hans", 
 				+ `\n${bytesToSize(account?.data?.used)} | ${bytesToSize(account?.data?.flow)} | ${bytesToSize(account?.data?.total)}`;
 			break;
 		case false:
-			account.data.text = `♾️ | ${i18n[language]?.Data_Info_Unlimited ?? "无限"}`
+			account.data.text = `UNLIMITED | ${i18n[language]?.Data_Info_Unlimited ?? "无限"}`
 			break;
 		default:
 			account.data.text = `UNKNOWN | ${i18n[language]?.Unknown ?? "未知"}`
