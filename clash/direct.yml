@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,pianku.li
   - DOMAIN-SUFFIX,mypianku.net
   - DOMAIN-SUFFIX,btnull.com
+  - DOMAIN-SUFFIX,srtku.com
 
   # > 贝贝 B 站下载站
   - DOMAIN-SUFFIX,xbeibeix.com
